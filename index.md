@@ -5,7 +5,7 @@
 h1 {
 font-family: sans-serif;
 position: relative;
-left: 100px;
+
 top: 10px; 
 scrolling="no";
 };
