@@ -28,7 +28,7 @@ left: 250px;
 
 <h2>Probabity of Winning</h2>
 <h3>50% - KKR<br>
-CSK - 20%</h3>
+CSK - 50%</h3>
 <p>This match may be a close won because of the final pressures. Thisss might be a milestone for KKR if they win this match. While on the other hand, Csk might just be one left to tag up the trophies with MI if they win the finals. So let's see if the men in yeelow get their 4th IPL win our with the knight riders be a match for the super kings. This is the <b>FINALS</b> of the Vivo IPL 2021.
 </p>
 <h2> Details about the Match </h2>
